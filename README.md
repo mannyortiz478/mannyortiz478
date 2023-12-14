@@ -1,10 +1,10 @@
-# Welcome! 👋
+# "Hello World!" 👋
 
 ## 🧑🏻‍💻 About Me
-Welcome to my GitHub 🚀. I'm Manny Ortiz, I am big tech enthusiast. I am eager to learn new skills and technologies and to make a positive impact. 
+Welcome to my GitHub 🚀 I'm Manny Ortiz, a big tech enthusiast. I am eager to learn new skills and technologies to make a positive impact. 
 ## 👷🏼 Status
 
-- Developing an Invoice Manager for my mom's cleaning business, to streamline invoice.
+- Developing an Invoice Manager for a cleaning business, to streamline invoice processes.
 
 ## 🤝 Collaboration & Contributions
 
@@ -14,7 +14,7 @@ Feel free to explore my repositories, open issues, and submit pull requests. I a
 
 - 💼 LinkedIn: [https://www.linkedin.com/in/emanuel-mendiola-ortiz/]
   
-Feel free to drop me a message, and I'll be happy to chat and collaborate. 😃
+Feel free to drop me a message, and I'll be happy to chat and potentially collaborate. 😃
 
 ## 💻 Tech Stack 
 
@@ -49,7 +49,7 @@ I am interested in:
 Apart from coding, I enjoy:
 
 - Watching Youtube, Movies and T.v Shows
-- Reading books and expanding my knowledge.
+- Reading books to expand my knowledge.
 
 ### 🌳 Future Goals
 
