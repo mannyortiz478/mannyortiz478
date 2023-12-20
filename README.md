@@ -49,7 +49,7 @@ I am interested in:
 Apart from coding, I enjoy:
 
 - Watching Youtube, Movies and T.v Shows
-- Reading books to expand my knowledge.
+- Reading books
 
 ### 🌳 Future Goals
 
