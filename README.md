@@ -4,7 +4,7 @@
 Welcome to my GitHub 🚀 I'm Manny Ortiz, a big tech enthusiast. I am eager to learn new skills and technologies to make a positive impact. 
 ## 👷🏼 Status
 
-- Developing an Invoice Manager for a cleaning business, to streamline invoice processes.
+- Developing a React Firebase Chat App; Using Google Cloud, Firebase, React, HTML, CSS and JS.
 
 ## 🤝 Collaboration & Contributions
 
@@ -12,28 +12,57 @@ Feel free to explore my repositories, open issues, and submit pull requests. I a
 
 ## ✉️ Get in Touch
 
-- 💼 LinkedIn: [https://www.linkedin.com/in/emanuel-mendiola-ortiz/]
+ <a href="https://www.linkedin.com/in/emanuel-mendiola-ortiz/" target="_blank"><img src="https://a11ybadges.com/badge?logo=linkedin" alt="LinkedIn"/></a>
   
 Feel free to drop me a message, and I'll be happy to chat and potentially collaborate. 😃
 
 ## 💻 Tech Stack 
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-05122A?style=flat&logo=jupyter&logoColor=F37626)&nbsp;
-![Google Colab](https://img.shields.io/badge/-Google%20Colab-05122A?style=flat&logo=google-colab&logoColor=F9AB00)&nbsp;
-![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras&logoColor=D00000)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
-![Tensorflow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=tensorflow&logoColor=FF6F00)&nbsp;
+<p align="center"> 
+<img alt="HTML5" src="https://a11ybadges.com/badge?logo=html5"/>
+<img alt="CSS3" src="https://a11ybadges.com/badge?logo=css3"/>
+<img alt="JavaScript" src="https://a11ybadges.com/badge?logo=javascript"/>
+<img alt="Java" src="https://a11ybadges.com/badge?logo=java"/>
+<img alt="TypeScript" src="https://a11ybadges.com/badge?logo=typescript"/>
+<img alt="React" src="https://a11ybadges.com/badge?logo=react"/>
+<img alt="JSON" src="https://a11ybadges.com/badge?logo=json"/>
+<img alt="Python" src="https://a11ybadges.com/badge?logo=python"/>
+<img alt="MySQL" src="https://a11ybadges.com/badge?logo=mysql"/>
+<img alt="Docker" src="https://a11ybadges.com/badge?logo=docker"/>
+<img alt="Git" src="https://a11ybadges.com/badge?logo=git"/>
+<img alt="GitHub" src="https://a11ybadges.com/badge?logo=github"/>
+<img alt="Jupyter" src="https://a11ybadges.com/badge?logo=jupyter"/>
+<img alt="Linux" src="https://a11ybadges.com/badge?logo=linux"/>
+<img alt="Ubuntu" src="https://a11ybadges.com/badge?logo=ubuntu"/>
+<img alt="Fedora" src="https://a11ybadges.com/badge?logo=fedora"/>
+<img alt="Kali Linux" src="https://a11ybadges.com/badge?logo=kalilinux"/>
+<img alt="macOS" src="https://a11ybadges.com/badge?logo=macos"/>
+<img alt="Windows" src="https://a11ybadges.com/badge?logo=windows"/>
+<img alt="Google Cloud" src="https://a11ybadges.com/badge?logo=googlecloud"/>
+<img alt="Microsoft Azure" src="https://a11ybadges.com/badge?logo=microsoftazure"/>
+<img alt="Microsoft Office" src="https://a11ybadges.com/badge?logo=microsoftoffice"/>
+<img alt="Notion" src="https://a11ybadges.com/badge?logo=notion"/>
+<img alt="Slack" src="https://a11ybadges.com/badge?logo=slack"/>
+<img alt="Visual Studio" src="https://a11ybadges.com/badge?logo=visualstudio"/>
+<img alt="IntelliJ IDEA" src="https://a11ybadges.com/badge?logo=intellijidea"/>
+<img alt="VirtualBox" src="https://a11ybadges.com/badge?logo=virtualbox"/>
+<img alt="Wireshark" src="https://a11ybadges.com/badge?logo=wireshark"/>
+<img alt="OpenAI" src="https://a11ybadges.com/badge?logo=openai"/>
+<img alt="TensorFlow" src="https://a11ybadges.com/badge?logo=tensorflow"/>
+
+  
+</p>
+
+<p align="center">
+  <img alt="Firefox" src="https://a11ybadges.com/badge?logo=firefox"/>
+  <img alt="freeCodeCamp" src="https://a11ybadges.com/badge?logo=freecodecamp"/>
+  <img alt="Stack Overflow" src="https://a11ybadges.com/badge?logo=stackoverflow"/>
+  <img alt="Hack The Box" src="https://a11ybadges.com/badge?logo=hackthebox"/>
+  <img alt="TryHackMe" src="https://a11ybadges.com/badge?logo=tryhackme"/>
+  <img alt="SpaceX" src="https://a11ybadges.com/badge?logo=spacex"/>
+  <img alt="Tesla" src="https://a11ybadges.com/badge?logo=tesla"/>
+</p>
+
 
 ## 💡 Interests
 
@@ -60,6 +89,10 @@ Apart from coding, I enjoy:
 
 ## GitHub Stats 📈
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mannyortiz478&layout=compact">
+<div align="center">
+  <a href="https://github-readme-streak-stats.herokuapp.com">
+      <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mannyortiz478&layout=compact&theme=radical" alt="Most Used Language" />
+    </a>
+</div>
 
 Thank you for visiting my GitHub profile! Happy coding! 🚀
