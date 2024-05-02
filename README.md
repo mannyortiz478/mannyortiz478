@@ -4,7 +4,7 @@
 Welcome to my GitHub 🚀 I'm Manny Ortiz, a big tech enthusiast. I am eager to learn new skills and technologies to make a positive impact. 
 ## 👷🏼 Status
 
-- Developing a React Firebase Chat App; Using Google Cloud, Firebase, React, HTML, CSS and JS.
+- Developing a website for a student organization using Next JS
 
 ## 🤝 Collaboration & Contributions
 
@@ -48,19 +48,7 @@ Feel free to drop me a message, and I'll be happy to chat and potentially collab
 <img alt="VirtualBox" src="https://a11ybadges.com/badge?logo=virtualbox"/>
 <img alt="Wireshark" src="https://a11ybadges.com/badge?logo=wireshark"/>
 <img alt="OpenAI" src="https://a11ybadges.com/badge?logo=openai"/>
-<img alt="TensorFlow" src="https://a11ybadges.com/badge?logo=tensorflow"/>
-
-  
-</p>
-
-<p align="center">
-  <img alt="Firefox" src="https://a11ybadges.com/badge?logo=firefox"/>
-  <img alt="freeCodeCamp" src="https://a11ybadges.com/badge?logo=freecodecamp"/>
-  <img alt="Stack Overflow" src="https://a11ybadges.com/badge?logo=stackoverflow"/>
-  <img alt="Hack The Box" src="https://a11ybadges.com/badge?logo=hackthebox"/>
-  <img alt="TryHackMe" src="https://a11ybadges.com/badge?logo=tryhackme"/>
-  <img alt="SpaceX" src="https://a11ybadges.com/badge?logo=spacex"/>
-  <img alt="Tesla" src="https://a11ybadges.com/badge?logo=tesla"/>
+<img alt="TensorFlow" src="https://a11ybadges.com/badge?logo=tensorflow"/> 
 </p>
 
 
