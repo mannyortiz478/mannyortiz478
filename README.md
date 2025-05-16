@@ -1,86 +1,109 @@
-# "Hello World!" 👋
+# 👋 Hello, World!
 
-## 🧑🏻‍💻 About Me
-Welcome to my GitHub 🚀 I'm Manny Ortiz, a big tech enthusiast. I am eager to learn new skills and technologies to make a positive impact. 
-## 👷🏼 Status
+My name is Manny Ortiz and welcome to my GitHub! I'm a passionate tech enthusiast, software developer, and lifelong learner who loves solving problems, building cool stuff, and connecting with people who share the same drive for innovation. 🚀
 
-- Developing a website for a student organization using Next JS
+---
 
-## 🤝 Collaboration & Contributions
+## 👨🏻‍💻 About Me
 
-Feel free to explore my repositories, open issues, and submit pull requests. I am not expert in everything 😅
+- 🎓 Undergraduate student with a keen interest in cybersecurity, cloud technologies, and software development.
+- 🌱 Currently sharpening my skills in Cybersecurity and Cloud Computing. In addtion I'm also learning about Quantum Computing.
 
-## ✉️ Get in Touch
+---
 
- <a href="https://www.linkedin.com/in/emanuel-mendiola-ortiz/" target="_blank"><img src="https://a11ybadges.com/badge?logo=linkedin" alt="LinkedIn"/></a>
-  
-Feel free to drop me a message, and I'll be happy to chat and potentially collaborate. 😃
+## 🚧 What I’m Working On
 
-## 💻 Tech Stack 
+- 🌐 Developing a modern website for a student organization using **Next.js** and **TypeScript**
+- 🔐 Exploring hands-on cybersecurity labs and Capture the Flag (CTF) challenges
+- ☁️ Deploying personal projects on cloud platforms like **AWS**, **GCP**, and **Azure**
+
+---
+
+## 🤝 Let's Collaborate!
+
+I'm always open to learning from others and contributing to meaningful projects. Whether you’re a beginner or a seasoned dev, feel free to:
+
+- 📂 Explore my repositories
+- 🐛 Open issues
+- 🔧 Submit pull requests  
+> I don’t know everything—but I’m always excited to learn! 😄
+
+---
+
+## 💬 Connect With Me
+
+<a href="https://www.linkedin.com/in/emanuel-mendiola-ortiz/" target="_blank"><img src="https://a11ybadges.com/badge?logo=linkedin" alt="LinkedIn"/></a>
+
+Have a project, idea, or just want to chat? Don’t hesitate to reach out—I’m happy to connect!
+
+---
+
+## 🛠️ Tech Stack & Tools
 
 <p align="center"> 
-<img alt="HTML5" src="https://a11ybadges.com/badge?logo=html5"/>
-<img alt="CSS3" src="https://a11ybadges.com/badge?logo=css3"/>
-<img alt="JavaScript" src="https://a11ybadges.com/badge?logo=javascript"/>
-<img alt="Java" src="https://a11ybadges.com/badge?logo=java"/>
-<img alt="TypeScript" src="https://a11ybadges.com/badge?logo=typescript"/>
-<img alt="React" src="https://a11ybadges.com/badge?logo=react"/>
-<img alt="JSON" src="https://a11ybadges.com/badge?logo=json"/>
-<img alt="Python" src="https://a11ybadges.com/badge?logo=python"/>
-<img alt="MySQL" src="https://a11ybadges.com/badge?logo=mysql"/>
-<img alt="Docker" src="https://a11ybadges.com/badge?logo=docker"/>
-<img alt="Git" src="https://a11ybadges.com/badge?logo=git"/>
-<img alt="GitHub" src="https://a11ybadges.com/badge?logo=github"/>
-<img alt="Jupyter" src="https://a11ybadges.com/badge?logo=jupyter"/>
-<img alt="Linux" src="https://a11ybadges.com/badge?logo=linux"/>
-<img alt="Ubuntu" src="https://a11ybadges.com/badge?logo=ubuntu"/>
-<img alt="Fedora" src="https://a11ybadges.com/badge?logo=fedora"/>
-<img alt="Kali Linux" src="https://a11ybadges.com/badge?logo=kalilinux"/>
-<img alt="macOS" src="https://a11ybadges.com/badge?logo=macos"/>
-<img alt="Windows" src="https://a11ybadges.com/badge?logo=windows"/>
-<img alt="Google Cloud" src="https://a11ybadges.com/badge?logo=googlecloud"/>
-<img alt="Microsoft Azure" src="https://a11ybadges.com/badge?logo=microsoftazure"/>
-<img alt="Microsoft Office" src="https://a11ybadges.com/badge?logo=microsoftoffice"/>
-<img alt="Notion" src="https://a11ybadges.com/badge?logo=notion"/>
-<img alt="Slack" src="https://a11ybadges.com/badge?logo=slack"/>
-<img alt="Visual Studio" src="https://a11ybadges.com/badge?logo=visualstudio"/>
-<img alt="IntelliJ IDEA" src="https://a11ybadges.com/badge?logo=intellijidea"/>
-<img alt="VirtualBox" src="https://a11ybadges.com/badge?logo=virtualbox"/>
-<img alt="Wireshark" src="https://a11ybadges.com/badge?logo=wireshark"/>
-<img alt="OpenAI" src="https://a11ybadges.com/badge?logo=openai"/>
-<img alt="TensorFlow" src="https://a11ybadges.com/badge?logo=tensorflow"/> 
+  <img alt="HTML5" src="https://a11ybadges.com/badge?logo=html5"/>
+  <img alt="CSS3" src="https://a11ybadges.com/badge?logo=css3"/>
+  <img alt="JavaScript" src="https://a11ybadges.com/badge?logo=javascript"/>
+  <img alt="TypeScript" src="https://a11ybadges.com/badge?logo=typescript"/>
+  <img alt="Python" src="https://a11ybadges.com/badge?logo=python"/>
+  <img alt="Java" src="https://a11ybadges.com/badge?logo=java"/>
+  <img alt="JSON" src="https://a11ybadges.com/badge?logo=json"/>
+  <img alt="React" src="https://a11ybadges.com/badge?logo=react"/>
+  <img alt="TensorFlow" src="https://a11ybadges.com/badge?logo=tensorflow"/>
+  <img alt="MySQL" src="https://a11ybadges.com/badge?logo=mysql"/>
+  <img alt="Docker" src="https://a11ybadges.com/badge?logo=docker"/>
+  <img alt="Git" src="https://a11ybadges.com/badge?logo=git"/>
+  <img alt="GitHub" src="https://a11ybadges.com/badge?logo=github"/>
+  <img alt="Linux" src="https://a11ybadges.com/badge?logo=linux"/>
+  <img alt="Ubuntu" src="https://a11ybadges.com/badge?logo=ubuntu"/>
+  <img alt="Fedora" src="https://a11ybadges.com/badge?logo=fedora"/>
+  <img alt="Kali Linux" src="https://a11ybadges.com/badge?logo=kalilinux"/>
+  <img alt="macOS" src="https://a11ybadges.com/badge?logo=macos"/>
+  <img alt="Windows" src="https://a11ybadges.com/badge?logo=windows"/>
+  <img alt="Google Cloud" src="https://a11ybadges.com/badge?logo=googlecloud"/>
+  <img alt="Microsoft Azure" src="https://a11ybadges.com/badge?logo=microsoftazure"/>
+  <img alt="Visual Studio" src="https://a11ybadges.com/badge?logo=visualstudio"/>
+  <img alt="IntelliJ IDEA" src="https://a11ybadges.com/badge?logo=intellijidea"/>
+  <img alt="Jupyter" src="https://a11ybadges.com/badge?logo=jupyter"/>
+  <img alt="VirtualBox" src="https://a11ybadges.com/badge?logo=virtualbox"/>
+  <img alt="Wireshark" src="https://a11ybadges.com/badge?logo=wireshark"/>
+  <img alt="OpenAI" src="https://a11ybadges.com/badge?logo=openai"/>
+  <img alt="Notion" src="https://a11ybadges.com/badge?logo=notion"/>
+  <img alt="Slack" src="https://a11ybadges.com/badge?logo=slack"/>
 </p>
 
+---
 
-## 💡 Interests
+## 🌟 Interests
 
-I am interested in:
+- **Cybersecurity** 🔐
+- **Deep Learning & AI** 🧠
+- **Cloud Infrastructure & DevOps** ☁️
+- **Software Engineering** 🧑🏻‍💻
 
-- Software Development 🧑🏻‍💻
-- Deep Learning 🧠
-- Cloud Computing ☁️
-- Cybersecurity 🔐
+---
 
-## 📚 Hobbies
+## 📚 Outside of Tech
 
-Apart from coding, I enjoy:
+- 🎬 Movie and TV show enthusiast (especially action!)
+- 📖 Avid reader of tech blogs, news, and productivity books
 
-- Watching Youtube, Movies and T.v Shows
-- Reading books
+---
 
-### 🌳 Future Goals
+## 🚀 Goals for 2025
 
-- My ultimate goal is to grow as developer
-- Collaborate on an open source project
-- Expand my network
+- ✅ Contribute to an open-source project
+- 🤝 Grow my professional network in tech
 
+---
 
-## GitHub Stats 📈
+## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github-readme-streak-stats.herokuapp.com">
-      <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mannyortiz478&layout=compact&theme=radical" alt="Most Used Language" />
-    </a>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mannyortiz478&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
-Thank you for visiting my GitHub profile! Happy coding! 🚀
+---
+
+Thanks for visiting my GitHub profile. Let’s keep building, learning, and growing together.  
+**Happy Coding!** 💻✨
